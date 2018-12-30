@@ -6,3 +6,7 @@ https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-pytho
 Swapfile
 
 https://www.bitpi.co/2015/02/11/how-to-change-raspberry-pis-swapfile-size-on-rasbian/
+
+Yolov2Ncs for ncsdkv1
+
+https://github.com/duangenquan/YoloV2NCS/releases/tag/v1.0
