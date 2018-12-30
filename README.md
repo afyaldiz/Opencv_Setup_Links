@@ -10,3 +10,8 @@ https://www.bitpi.co/2015/02/11/how-to-change-raspberry-pis-swapfile-size-on-ras
 Yolov2Ncs for ncsdkv1
 
 https://github.com/duangenquan/YoloV2NCS/releases/tag/v1.0
+
+
+RPI NCSDK
+
+https://raspberrypi4u.blogspot.com/2018/10/install-intel-movidius-neural-compute-sdk.html
