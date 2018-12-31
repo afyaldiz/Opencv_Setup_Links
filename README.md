@@ -11,6 +11,10 @@ Yolov2Ncs for ncsdkv1
 
 https://github.com/duangenquan/YoloV2NCS/releases/tag/v1.0
 
+YoloV2NCS for ncsdkv2
+
+https://github.com/duangenquan/YoloV2NCS
+
 
 RPI NCSDK
 
