@@ -1,7 +1,11 @@
 # OpencvSetup
-Opencv Yükleme
+Opencv Yükleme raspberry pi 3
 
 https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/
+
+Opencv Setup Ubuntu 16.04
+
+https://www.pytorials.com/how-to-install-opencv340-on-ubuntu1604/
 
 Swapfile
 
