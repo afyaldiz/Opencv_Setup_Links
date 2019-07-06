@@ -5,7 +5,9 @@ https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-pytho
 
 Opencv Setup Ubuntu 16.04
 
-https://www.pytorials.com/how-to-install-opencv340-on-ubuntu1604/
+bazen çalışmıyor https://www.pytorials.com/how-to-install-opencv340-on-ubuntu1604/
+
+https://medium.com/@debugvn/installing-opencv-3-3-0-on-ubuntu-16-04-lts-7db376f93961
 
 Swapfile
 
