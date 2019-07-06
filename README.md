@@ -9,6 +9,10 @@ bazen çalışmıyor https://www.pytorials.com/how-to-install-opencv340-on-ubunt
 
 https://medium.com/@debugvn/installing-opencv-3-3-0-on-ubuntu-16-04-lts-7db376f93961
 
+export VIRTUALENVWRAPPER_PYTHON=`which python`
+export VIRTUALENVWRAPPER_VIRTUALENV=`which virtualenv`
+source `which virtualenvwrapper.sh`
+
 Swapfile
 
 https://www.bitpi.co/2015/02/11/how-to-change-raspberry-pis-swapfile-size-on-rasbian/
